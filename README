@@ -1,0 +1,10 @@
+xftp is meant to make uploads to your XBMC easy. 
+
+If your xbox has been fitted with a larger hard drive it makes sense to want to different kinds of media on it.
+
+Currently xftp is only suited to upload video files. Use the configuration file to setup xftp for your XBMC. It's written with some defaults to one of the following places:
+
+Windows: C:\xftp.txt
+Linux: /home/user/xftp.yml
+
+To try out your connection just type xftp at the command line.

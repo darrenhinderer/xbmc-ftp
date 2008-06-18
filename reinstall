@@ -1,0 +1,6 @@
+#!/bin/sh
+
+rake build
+sudo gem uninstall xftp -x
+sudo gem install xftp
+
